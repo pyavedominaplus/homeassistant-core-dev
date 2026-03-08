@@ -1,0 +1,14 @@
+{
+  "entity": {
+    "button": {
+      "scenario": {
+        "default": "mdi:play-circle-outline"
+      }
+    },
+    "sensor": {
+      "humidity": {
+        "default": "mdi:water-percent"
+      }
+    }
+  }
+}

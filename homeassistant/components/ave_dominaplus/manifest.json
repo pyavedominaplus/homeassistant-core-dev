@@ -1,0 +1,12 @@
+{
+  "domain": "ave_dominaplus",
+  "name": "AVE DominaPlus",
+  "codeowners": ["@Klaas-"],
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/ave_dominaplus",
+  "integration_type": "hub",
+  "iot_class": "local_push",
+  "loggers": ["pyavedominaplus"],
+  "quality_scale": "platinum",
+  "requirements": ["pyavedominaplus==0.1.8"]
+}

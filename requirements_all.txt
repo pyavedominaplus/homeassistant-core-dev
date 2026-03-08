@@ -2095,6 +2095,9 @@ pyatv==0.18.0
 # homeassistant.components.aussie_broadband
 pyaussiebb==0.1.5
 
+# homeassistant.components.ave_dominaplus
+pyavedominaplus==0.1.8
+
 # homeassistant.components.myneomitis
 pyaxencoapi==1.0.7
 

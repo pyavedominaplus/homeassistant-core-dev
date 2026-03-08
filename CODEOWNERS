@@ -198,6 +198,8 @@ CLAUDE.md @home-assistant/core
 /tests/components/automation/ @home-assistant/core
 /homeassistant/components/autoskope/ @mcisk
 /tests/components/autoskope/ @mcisk
+/homeassistant/components/ave_dominaplus/ @Klaas-
+/tests/components/ave_dominaplus/ @Klaas-
 /homeassistant/components/avea/ @pattyland
 /tests/components/avea/ @pattyland
 /homeassistant/components/awair/ @ahayworth @ricohageman
